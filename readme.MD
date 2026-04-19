@@ -57,7 +57,7 @@ Correlation captures structural co-movement but does not imply predictive power.
 ## Hypothesis Extension
 - This motivates testing whether lower-efficiency markets (e.g., OTC equities) exhibit stronger residual predictive structure under similar modeling constraints.
 
-## quick bullets
+## Quick bullets
 
 - Built statistical analysis pipeline comparing NASDAQ and S&P 500 using Python, pandas, and scikit-learn
 - Demonstrated that raw price correlation (r = 0.9932) is inflated due to non-stationary trends
